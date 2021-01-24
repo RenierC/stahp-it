@@ -18,3 +18,10 @@ You will also see any lint errors in the console.
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+The project was made following this tutorial by Nicholas Renotte
+https://www.youtube.com/watch?v=f7uBsb-0sGQ&t=1337s
+https://github.com/nicknochnack/HandPoseDetection
+
+The inspiration came from DevEd's vanilla js hand detection app
+https://youtu.be/s66w28knp80
+
