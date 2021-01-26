@@ -1,4 +1,6 @@
 # Don't touch your face
+Live demo 👉🏼 https://elastic-hodgkin-09f5e0.netlify.app/
+
 This little app intends to use machine vision to detect the landmarks of human hands and when it detects it plays a loud mp3 to disencourage you from touching your face, can be because you pick your face out of stress, because you wanna stay safe from covid, the possibilities are endless 
 
 The stack uses React + Tensorflow.js
